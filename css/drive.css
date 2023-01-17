@@ -49,11 +49,11 @@ nav ul.tit li a img{
     margin-left:-4px;
 }
 
-//app, noti
+.app, noti
 nav ul.right{
 	padding-right:12px;
 }
-//list, info, setting
+.list, info, setting
 nav ul.right li{
     max-width:48px;
 }
@@ -161,8 +161,8 @@ input[type=search]::placeholder{
 }
 
 .side-nav .active a{
-	color:#212121
-    font-weight:500;
+	color:#212121;
+    font-weight: 500;
 }
 
 .side-nav .subheader{
@@ -204,7 +204,7 @@ vertical-align:middle;
     font-size:15px
 }
 
-./folder i{
+.folder i{
 	color: rgba(0,0,0,0.54);
     margin-top:-3px;
 }
